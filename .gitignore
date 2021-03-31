@@ -1,3 +1,11 @@
-# nothing yet
-
 .ipynb_checkpoints
+.bashrc
+.config
+.docker
+.ipython
+.jupyter
+.local
+.ssh
+.viminfo
+src
+tutorials
