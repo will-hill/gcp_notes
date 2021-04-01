@@ -9,3 +9,7 @@
 .viminfo
 src
 tutorials
+.cache
+.gitconfig
+.gsutil
+.wget-hsts
