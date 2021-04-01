@@ -1,0 +1,2 @@
+Wand==0.6.6
+google-cloud-documentai==0.4.0
