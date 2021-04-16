@@ -1,4 +1,5 @@
 google-cloud-documentai==0.4.0
+google-cloud-bigquery==2.13.1
 pdf2image==1.14.0
 ipyplot==1.1.0
 Wand==0.6.6
